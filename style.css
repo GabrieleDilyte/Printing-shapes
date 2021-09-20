@@ -24,3 +24,6 @@ button:hover {
   margin-top: 20px;
   margin-left: 20px;
 }
+form {
+  padding: 15px;
+}
